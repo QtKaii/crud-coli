@@ -1,0 +1,9 @@
+docker/
+.git/
+*.log
+.env
+docker/mysql-data/
+**/*.swp
+**/*.swo
+.DS_Store
+Thumbs.db
